@@ -1,0 +1,3 @@
+# Install this only after the real YOLO model is ready.
+# It can make the installer much larger because it pulls PyTorch-related dependencies.
+ultralytics==8.3.221

@@ -1,0 +1,10 @@
+,Borehole_Tubewell,Piped_Water,Protected_Spring,Protected_Well,Rainwater_Harvesting,Sand_or_Sub-surface_Dam,Delivered_Water,Surface_Water,Unprotected_Well
+Borehole_Tubewell,16694,416,3791,1814,25,130,7,254,26
+Piped_Water,48,1472,16,89,9,91,0,119,13
+Protected_Spring,237,11,454,28,0,12,0,6,3
+Protected_Well,848,182,327,5041,9,54,0,194,75
+Rainwater_Harvesting,4,10,0,8,92,1,1,5,0
+Sand_or_Sub-surface_Dam,8,65,10,11,0,340,0,18,0
+Delivered_Water,1,1,0,0,0,0,3,2,0
+Surface_Water,13,25,13,41,1,11,0,413,17
+Unprotected_Well,0,9,4,14,0,11,0,14,1366
